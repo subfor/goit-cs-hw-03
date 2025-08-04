@@ -1,0 +1,5 @@
+dnspython==2.7.0
+Faker==37.5.3
+psycopg2-binary==2.9.10
+pymongo==4.13.2
+tzdata==2025.2
